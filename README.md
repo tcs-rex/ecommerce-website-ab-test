@@ -15,7 +15,7 @@ A/B tests are very commonly performed by data analysts and data scientists. The 
 * Part III - Regression
 
 ## References
-* Udacity Data Analyst nanodegree cirriculum and starter notebook.
+* Udacity Data Analyst nanodegree curriculum and starter notebook.
 * Stats Quest Videos (see resources referenced in notebook).
 
 
